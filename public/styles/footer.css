@@ -1,0 +1,7 @@
+.footer .container-fluid {
+    padding: 90px 0 0 0;
+    background: linear-gradient(rgba(52, 49, 72, .9), rgba(52, 49, 72, .9)), url(../../img/footer-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

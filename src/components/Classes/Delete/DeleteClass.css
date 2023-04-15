@@ -1,0 +1,27 @@
+.delete-class-img {
+	width:40%;
+}
+.delete-cat-img {
+	width:100%;
+	margin: 0 auto;
+}
+.class-del-wrap {
+	display:flex;
+	justify-content: space-evenly;
+}
+
+.title-del {
+	margin-bottom:30px;
+}
+i.del {
+	margin-right: 5px;
+}
+.go-back {
+	text-align:center;
+	font-size: 20px;
+	margin-top:15px;
+	text-decoration:underline;
+}
+.class-text.del {
+	margin-left:30px;
+}

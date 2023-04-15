@@ -1,0 +1,14 @@
+.filter-classes-navlink:hover {
+	background: #343148;
+    color: #ff0501;
+}
+
+.filter-classes-navlink:active {
+	background: #343148;
+    color: #ff0400;
+}
+
+.classes-header-text {
+	text-align:center!important;
+	margin-bottom:30px!important;
+}
