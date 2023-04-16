@@ -12,7 +12,7 @@ const Hero = () => {
                     <div className="row align-items-center">
                         <div className="col-sm-12 col-md-6">
                             <div className="hero-text">
-                                <h1>Tier lists and Boosting Services in one place</h1>
+                                <h1>Boosting Services and Helpful Guides in one place</h1>
                                 <p>
                                     Join our community attain your desired result with boosting services , guides and tips. You name it we got it!
                                 </p>
