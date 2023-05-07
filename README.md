@@ -2,6 +2,10 @@
 SoftUni ReactJS 2023 Project
 [View Live] : https://the-citadel-project.web.app/
 
+
+![Home page preview](https://user-images.githubusercontent.com/43795769/236678300-99f2ec47-0cfb-492d-8b73-6dea86908361.png)
+
+
 ## About The Project - Non-technical Description
 
 The project is designed as a platform for a Teaching Service, facilitating the needs browsing users (guests) as well as teachers and students. The main "unit" in this platform is the class which can be viewed, created, booked, modified and deleted depending on certain user roles.
