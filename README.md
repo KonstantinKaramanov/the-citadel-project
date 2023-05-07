@@ -1,10 +1,9 @@
 # The-Citadel
 SoftUni ReactJS 2023 Project
-[View Live] : https://the-citadel-project.web.app/
-
 
 ![Home page preview](https://user-images.githubusercontent.com/43795769/236678300-99f2ec47-0cfb-492d-8b73-6dea86908361.png)
 
+[View Live] : https://the-citadel-project.web.app/
 
 ## About The Project - Non-technical Description
 
